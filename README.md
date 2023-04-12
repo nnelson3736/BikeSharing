@@ -1,4 +1,4 @@
-# Bike SHaring - Boom Bikes
+# Bike Sharing - Boom Bikes
 > This is a case study to analyse the data of a bike rental company in US. We have 2 years data of 2018 and 2019. Using the available data we have created a model to better predict the behavious of Bike Rental in the coming years. We have created the model using Multiple Linear Regression.
 
 
